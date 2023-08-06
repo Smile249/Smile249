@@ -12,6 +12,8 @@ My life goals:
 - 🌱 Live a self-paced life with friends
 - 🚘 Be able to buy my dream car
 
+### 💖 Support me if you like
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S32LI7E)
 <!--
 **Smile249/Smile249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
