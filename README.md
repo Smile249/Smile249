@@ -8,7 +8,6 @@ Quick about me:
 
 My life goals:
 - 📜 Get a degree in networking
-- 🦅 Move to the states
 - 🌱 Live a self-paced life with friends
 - 🚘 Be able to buy my dream car
 
