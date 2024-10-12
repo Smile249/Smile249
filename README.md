@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Quick about me:
-- 🎓 Student in graphic and web design
+- 🎓 Student in graphic design, web design & game design
 - 👨‍💻 Learning to code by myself
 - 🛰️ Amateur radio enthusiast
 - 🎮 Avid rhythm game enjoyer
