@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 Quick about me:
-- 🎓 Student in graphic design, web design & game design
-- 👨‍💻 Learning to code by myself
-- 🛰️ Amateur radio enthusiast
+- 🎓 Student in IT, network infrastructure
+- 😄 Pronouns: she/her
+- ⚡ Interested in way too much stuff
 - 🎮 Avid rhythm game enjoyer
 
 My life goals:
-- 📜 Get a degree in networking
+- 📜 Get a degree in IT
 - 🌱 Live a self-paced life with friends
 - 🚘 Be able to buy my dream car
 
