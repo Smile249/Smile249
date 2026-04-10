@@ -11,11 +11,9 @@ My life goals:
 - 🌱 Live a self-paced life with friends
 - 🚘 Be able to buy my dream car
 
-Coding languages I know:
-- ☕ Java +++-
-- 🐍 Python +++- 
-- 👾 Embedded C/C++ ++--
-- 🐘 (PHP) +---
+My skills:<br><br>
+[![Technologies](https://skillicons.dev/icons?i=java,python,cpp,html,css,php&theme=light)](https://skillicons.dev)<br>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,docker,wireshark,platformio&theme=light)
 
 ### Support me if you want 💖
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S32LI7E)
