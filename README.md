@@ -13,7 +13,7 @@ My life goals:
 
 My skills:<br><br>
 [![Technologies](https://skillicons.dev/icons?i=java,python,cpp,html,css,php&theme=light)](https://skillicons.dev)<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,docker,wireshark,platformio&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,bash,powershell,docker,wireshark,platformio&theme=light)
 
 ### Support me if you want 💖
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S32LI7E)
