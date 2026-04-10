@@ -12,7 +12,7 @@ My life goals:
 - 🚘 Be able to buy my dream car
 
 My skills:<br><br>
-[![Technologies](https://skillicons.dev/icons?i=java,python,cpp,html,css,php&theme=dark)]()<br>
+[![Technologies](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,php&theme=dark)]()<br>
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,bash,powershell,docker,wireshark,platformio&theme=dark)]()
 
 ### Support me if you want 💖
